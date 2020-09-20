@@ -1,0 +1,30 @@
+body {
+  font-family: 'Comfortaa', cursive;
+}
+
+span {
+  display: block;
+}
+
+.collection .collection-header {
+  display: flex;
+  align-items: center;
+  background-image: url(/assets/vanila.jpg);
+  background-size: cover;
+}
+
+.collection-header h4 {
+  flex: 1;
+}
+
+.collection-header .input-field {
+  flex: 2;
+  display: flex;
+  align-items: flex-end;
+}
+
+
+.collection-header .input-field a {
+  margin-left: 6px;
+  margin-bottom: 8px;
+}
