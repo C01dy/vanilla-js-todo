@@ -9,7 +9,7 @@ span {
 .collection .collection-header {
   display: flex;
   align-items: center;
-  background-image: url(/assets/vanila.jpg);
+  background-image: url(../assets/vanila.jpg);
   background-size: cover;
 }
 
@@ -29,3 +29,7 @@ span {
   margin-bottom: 8px;
 }
 
+.secondary-content label {
+  display: flex;
+  align-items: center;
+}
