@@ -3,7 +3,7 @@ body {
 }
 
 span {
-  display: block;
+  /* display: block; */
 }
 
 .collection .collection-header {
@@ -28,3 +28,4 @@ span {
   margin-left: 6px;
   margin-bottom: 8px;
 }
+
